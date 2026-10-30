@@ -1,0 +1,9 @@
+# Codex 和智能体的本地配置、项目指令
+.codex/
+.agents/
+AGENTS.md
+AGENTS.override.md
+
+# Python 运行时缓存
+__pycache__/
+*.py[cod]
